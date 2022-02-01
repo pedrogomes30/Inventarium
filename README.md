@@ -18,10 +18,10 @@ esta aplicação consiste inicialmente em refatorar o site atual da inventárium
     criador simples, onde é possivel alterar corpo, cabelo, roupa e então compartilhar nas redes sociais;
     
 ##Tecnologias Utilizadas:
-- [https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white] - hospedagem no azure;
-- [https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white] - base do microserviço;
-- [https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white] - container da aplicação;
-- [https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white] - banco de dados;
-- [https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white] - editor de código;
-- [https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white] -SO base da aplicação;
-- [https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white][https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E] 
+- [<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white>]() - hospedagem no azure;
+- [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white>] - base do microserviço;
+- [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white>] - container da aplicação;
+- [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>] - banco de dados;
+- [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>] - editor de código;
+- [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>] -SO base da aplicação;
+- [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>][<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>] 
