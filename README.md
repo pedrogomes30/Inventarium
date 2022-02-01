@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.oinventarium.com.br/" target="_blank"><img src="https://static.wixstatic.com/media/19d256_0ee96687ba0144e6ac60404e6106da4a~mv2.png/v1/fill/w_122,h_112,al_c,q_85,usm_0.66_1.00_0.01/foto%20insta%20inventarium.webp" width="400"></a></p>
 
 ## Sobre a Inventárium
-a inventárium é uma pequena empresa de confecção de produtos colecionaveis artesanais utilizando principalmente de biscuit, fundada em 2016 pela artesã Thatiane, hoje dispõe não só materiais como também conteudos digitais apra outros artesões, postagens, videos, e cursos.
+a inventárium é uma pequena empresa de confecção de produtos colecionaveis artesanais utilizando principalmente de biscuit, fundada em 2016 pela artesã Thatiane, hoje dispõe não só materiais como também conteudos digitais para outros artesões, postagens, videos, ferramentas e cursos.
 
 ### redes sociais
 
@@ -10,5 +10,18 @@ a inventárium é uma pequena empresa de confecção de produtos colecionaveis a
 
 ## Sobre o Projeto
 
-Esta aplicação consiste em refatorar o site da inventárium, utilizando laravel:
+esta aplicação consiste inicialmente em refatorar o site atual da inventárium para um plataforma proprietária, permitindo algumas facilidades na elaboração das postagens, a aplicação também permite algumas ferramentas;
 
+- agenda do artesão:
+    permite separar os meses em espaços de tempo de confecção, onde o agendamento das encomendas se deve a cada espaço pré setado por estes meses;
+- criador de personagens:
+    criador simples, onde é possivel alterar corpo, cabelo, roupa e então compartilhar nas redes sociais;
+    
+##Tecnologias Utilizadas:
+- [https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white] - hospedagem no azure;
+- [https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white] - base do microserviço;
+- [https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white] - container da aplicação;
+- [https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white] - banco de dados;
+- [https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white] - editor de código;
+- [https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white] -SO base da aplicação;
+- [https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white][https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E] 
